@@ -1,0 +1,17 @@
+.imagen{
+ width: 350px;
+ height: 250px;
+}
+
+.texto_1{
+     color: blue;
+}
+.borde_1{
+    border-left: 1px solid black;
+}
+
+
+.lista{
+    list-style:  none;
+}
+
